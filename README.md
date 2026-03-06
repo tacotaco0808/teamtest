@@ -8,3 +8,5 @@ matsuya　女子イ憂
 
 berryfamily
 whiteberry
+blueberry
+strawberry
